@@ -1,0 +1,31 @@
+{
+  "name": "devchallenges-frontend-damiancabrera",
+  "version": "1.0.0",
+  "description": "This is a SPA with all the frontend challenges made by Damián Cabrera and provided by devchallenges.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianRCabrera/devchallenges-frontend-DamianCabrera.git"
+  },
+  "keywords": [],
+  "author": "Damian Cabrera - https://github.com/DamianRCabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianRCabrera/devchallenges-frontend-DamianCabrera/issues"
+  },
+  "homepage": "https://github.com/DamianRCabrera/devchallenges-frontend-DamianCabrera#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
